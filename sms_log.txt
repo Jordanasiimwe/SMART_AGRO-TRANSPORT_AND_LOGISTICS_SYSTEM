@@ -1,0 +1,81 @@
+[2026-03-16 10:48:52] SMS SENT TO: 0788179038 | MESSAGE: Thankyou
+[2026-03-16 10:49:40] SMS SENT TO: 0788179038 | MESSAGE: Thankyou received
+[2026-03-16 10:54:36] SMS SENT TO: 0788179038 | MESSAGE: Hello, confirm when your delivery arrives, Thanks
+[2026-03-16 10:59:06] SMS SENT TO: 0788179038 | MESSAGE: Thankyou my boss, i shall do that
+[2026-03-16 11:06:36] SMS SENT TO: 0788179038 | MESSAGE: The delivery has arrived! Thanks so much
+[2026-03-16 11:07:30] SMS SENT TO: 0788179038 | MESSAGE: All the best my guy
+[2026-03-16 11:15:45] SMS SENT TO: 0755539617 | MESSAGE: Hello, good afternoon. Do you have the produce available?
+[2026-03-16 11:16:32] SMS SENT TO: 0788179038 | MESSAGE: Alirght, I will do that
+[2026-03-16 11:32:40] SMS SENT TO: 0755539617 | MESSAGE: I love the quality of your products, please keep it up
+[2026-03-17 09:11:04] SMS SENT TO: 0788179038 | MESSAGE: hello
+[2026-03-17 09:26:36] SMS SENT TO: 0788179038 | MESSAGE: Hello Mr. Ogwang
+[2026-03-17 18:28:51] SMS SENT TO: 0788179038 | MESSAGE: sorry, my tomatoes are sold out try another famer
+[2026-03-17 18:55:49] SMS SENT TO: 0761382827 | MESSAGE: hello, David i have a complaint about your products
+[2026-03-18 10:47:34] SMS SENT TO: 0755539617 | MESSAGE: AgriConnect Alert: System maintenance is scheduled shortly. Please save your work. The system will be back online soon.
+[2026-03-18 10:47:34] SMS SENT TO: 0788179038 | MESSAGE: AgriConnect Alert: System maintenance is scheduled shortly. Please save your work. The system will be back online soon.
+[2026-03-18 10:47:34] SMS SENT TO: 0788179038 | MESSAGE: AgriConnect Alert: System maintenance is scheduled shortly. Please save your work. The system will be back online soon.
+[2026-03-18 10:47:34] SMS SENT TO: 0761382827 | MESSAGE: AgriConnect Alert: System maintenance is scheduled shortly. Please save your work. The system will be back online soon.
+[2026-03-19 05:54:53] SMS SENT TO: 0755539617 | MESSAGE: System Alert: System maintenance scheduled for tomorrow at 00:00 AM so save your work or finalize transaction before that time, Thank you, Management
+[2026-03-19 05:54:53] SMS SENT TO: 0788179038 | MESSAGE: System Alert: System maintenance scheduled for tomorrow at 00:00 AM so save your work or finalize transaction before that time, Thank you, Management
+[2026-03-19 05:54:53] SMS SENT TO: 0788179038 | MESSAGE: System Alert: System maintenance scheduled for tomorrow at 00:00 AM so save your work or finalize transaction before that time, Thank you, Management
+[2026-03-19 05:54:53] SMS SENT TO: 0761382827 | MESSAGE: System Alert: System maintenance scheduled for tomorrow at 00:00 AM so save your work or finalize transaction before that time, Thank you, Management
+[2026-03-22 13:54:25] SMS SENT TO: 072134123 | MESSAGE: hello
+[2026-03-22 13:55:38] SMS SENT TO: System Admin | MESSAGE: track my order
+[2026-03-22 14:10:59] SMS SENT TO: 0774050643 | MESSAGE: already approved
+[2026-03-22 14:21:46] SMS SENT TO: 0755539617 | MESSAGE: System Alert: Dear customers ,the system will be off from 2pm to 5pm
+[2026-03-22 14:21:47] SMS SENT TO: 0788179038 | MESSAGE: System Alert: Dear customers ,the system will be off from 2pm to 5pm
+[2026-03-22 14:21:47] SMS SENT TO: 0788179038 | MESSAGE: System Alert: Dear customers ,the system will be off from 2pm to 5pm
+[2026-03-22 14:21:47] SMS SENT TO: 0761382827 | MESSAGE: System Alert: Dear customers ,the system will be off from 2pm to 5pm
+[2026-03-22 14:21:47] SMS SENT TO: 072134123 | MESSAGE: System Alert: Dear customers ,the system will be off from 2pm to 5pm
+[2026-03-22 14:21:47] SMS SENT TO: 0774050643 | MESSAGE: System Alert: Dear customers ,the system will be off from 2pm to 5pm
+[2026-03-22 14:21:47] SMS SENT TO: 0772586523 | MESSAGE: System Alert: Dear customers ,the system will be off from 2pm to 5pm
+[2026-03-23 10:43:18] SMS SENT TO: 0761382827 | MESSAGE: welcome to the new month, we expect you to have started planting all ready
+[2026-03-23 10:48:07] SMS SENT TO: 0761382827 | MESSAGE: System Alert: Good mourning all our dear stalk holders
+[2026-03-23 10:48:07] SMS SENT TO: 0774050643 | MESSAGE: System Alert: Good mourning all our dear stalk holders
+[2026-03-23 10:48:07] SMS SENT TO: 0772586523 | MESSAGE: System Alert: Good mourning all our dear stalk holders
+[2026-03-23 10:48:07] SMS SENT TO: 0755539617 | MESSAGE: System Alert: Good mourning all our dear stalk holders
+[2026-03-23 10:51:41] SMS SENT TO: System Admin | MESSAGE: Thank you for the ⚠
+[2026-03-23 11:18:54] SMS SENT TO: 0774050643 | MESSAGE: I RECIEVED YOUR ORDER
+[2026-03-23 11:22:29] SMS SENT TO: 0774050643 | MESSAGE: YOUR GOODS ARE ERADY FOR PICKUP
+[2026-03-23 11:47:48] SMS SENT TO: 0774050643 | MESSAGE: I HAVE NOT RECIEVED MY PAYMENT
+[2026-03-26 21:55:27] SMS SENT TO: 0774050643 | MESSAGE: YOU PRODUCE IS READY FOR PICKUP
+[2026-03-26 21:56:59] SMS SENT TO: 0761382827 | MESSAGE: THANK, I WILL BE PICKING TOMORROW MORNING
+[2026-03-26 22:15:58] SMS SENT TO: 0774050643 | MESSAGE: WE SHALL BE WAITING
+[2026-03-28 14:37:55] SMS SENT TO: 0774050643 | MESSAGE: hello
+[2026-03-28 19:21:24] SMS SENT TO: System Admin | MESSAGE: Hello admin
+[2026-03-28 19:21:57] SMS SENT TO: System Admin | MESSAGE: Good evening boss
+[2026-03-28 19:22:20] SMS SENT TO: System Admin | MESSAGE: Hello our boss
+[2026-03-28 19:22:47] SMS SENT TO: System Admin | MESSAGE: Thjankyou for everything admin
+[2026-03-28 20:04:38] SMS SENT TO: System Admin | MESSAGE: Admin thanks for maintaining the system
+[2026-03-28 20:05:31] SMS SENT TO: System Admin | MESSAGE: Thanks for restoring the system
+[2026-03-28 20:06:27] SMS SENT TO: System Admin | MESSAGE: OOh wow, one of the best apps by far
+[2026-03-28 20:07:42] SMS SENT TO: System Admin | MESSAGE: thanks so much our able admin
+[2026-03-28 20:26:33] SMS SENT TO: 0774050643 | MESSAGE: pleasure is all ours, thanks for subscribing to the system
+[2026-03-28 20:28:10] SMS SENT TO: 0774050643 | MESSAGE: Hello lucky
+[2026-03-28 20:28:35] SMS SENT TO: 0774050643 | MESSAGE: Your order will soon arrive
+[2026-03-28 20:35:31] SMS SENT TO: System Admin | MESSAGE: Farmer Kings Garden has uploaded a new product. They now have 4 product(s) available. If interested, please checkout and make an order.
+[2026-03-28 20:35:31] SMS SENT TO: 0774050643 | MESSAGE: Farmer Kings Garden has uploaded a new product. They now have 4 product(s) available. If interested, please checkout and make an order.
+[2026-03-28 20:35:31] SMS SENT TO: System Admin | MESSAGE: Farmer Kings Garden has uploaded a new product. They now have 4 product(s) available. If interested, please checkout and make an order.
+[2026-03-28 20:35:31] SMS SENT TO: 0755539617 | MESSAGE: Farmer Kings Garden has uploaded a new product. They now have 4 product(s) available. If interested, please checkout and make an order.
+[2026-03-28 20:46:00] SMS SENT TO: System Admin | MESSAGE: Farmer Kings Garden has added another product to the market. Total products for this farmer: 5.
+[2026-03-28 20:46:00] SMS SENT TO: 0774050643 | MESSAGE: Farmer Kings Garden has uploaded a new product. They now have 5 product(s) available. If interested, please checkout and make an order.
+[2026-03-28 20:46:00] SMS SENT TO: System Admin | MESSAGE: Farmer Kings Garden has uploaded a new product. They now have 5 product(s) available. If interested, please checkout and make an order.
+[2026-03-28 20:46:00] SMS SENT TO: 0755539617 | MESSAGE: Farmer Kings Garden has uploaded a new product. They now have 5 product(s) available. If interested, please checkout and make an order.
+[2026-03-29 08:42:37] SMS SENT TO: 0761382827 | MESSAGE: GOOD MORNING KINGS FARM, I WOULD LIKE TO INFORM YOU THAT WE HAVE INTRODUCED A NEW MODULE IN YOUR SYSTEM TAKE TIME AND TRY IT OUT
+[2026-03-29 08:43:38] SMS SENT TO: 0761382827 | MESSAGE: GOOD MORNING OUR DEAR CUSTOMER HOW IS THE SYSTEM
+[2026-03-29 08:45:51] SMS SENT TO: 0774050643 | MESSAGE: HOW IS OUR SYSTEM
+[2026-03-29 08:50:40] SMS SENT TO: System Admin | MESSAGE: Farmer Kings Garden has added another product to the market. Total products for this farmer: 6.
+[2026-03-29 08:50:40] SMS SENT TO: 0774050643 | MESSAGE: Farmer Kings Garden has uploaded a new product. They now have 6 product(s) available. If interested, please checkout and make an order.
+[2026-03-29 08:50:40] SMS SENT TO: System Admin | MESSAGE: Farmer Kings Garden has uploaded a new product. They now have 6 product(s) available. If interested, please checkout and make an order.
+[2026-03-29 08:50:40] SMS SENT TO: 0755539617 | MESSAGE: Farmer Kings Garden has uploaded a new product. They now have 6 product(s) available. If interested, please checkout and make an order.
+[2026-03-29 08:56:22] SMS SENT TO: 0761382827 | MESSAGE: WHERE IS YOU SPEFIC LOCATION
+[2026-03-29 09:04:31] SMS SENT TO: System Admin | MESSAGE: Farmer mbale Model Farm has added another product to the market. Total products for this farmer: 2.
+[2026-03-29 09:04:31] SMS SENT TO: 0774050643 | MESSAGE: Farmer mbale Model Farm has uploaded a new product. They now have 2 product(s) available. If interested, please checkout and make an order.
+[2026-03-29 09:04:31] SMS SENT TO: System Admin | MESSAGE: Farmer mbale Model Farm has uploaded a new product. They now have 2 product(s) available. If interested, please checkout and make an order.
+[2026-03-29 09:04:31] SMS SENT TO: 0755539617 | MESSAGE: Farmer mbale Model Farm has uploaded a new product. They now have 2 product(s) available. If interested, please checkout and make an order.
+[2026-04-07 11:14:20] SMS SENT TO: 0761382827 | MESSAGE: System Alert: good day
+[2026-04-07 11:14:20] SMS SENT TO: 0774050643 | MESSAGE: System Alert: good day
+[2026-04-07 11:14:20] SMS SENT TO: 0772586523 | MESSAGE: System Alert: good day
+[2026-04-07 11:14:20] SMS SENT TO: 0755539617 | MESSAGE: System Alert: good day
+[2026-04-07 11:14:20] SMS SENT TO: 0766841031 | MESSAGE: System Alert: good day
+[2026-04-07 11:14:20] SMS SENT TO: 0766841031 | MESSAGE: System Alert: good day

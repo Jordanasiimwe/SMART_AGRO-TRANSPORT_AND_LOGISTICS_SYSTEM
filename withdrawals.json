@@ -1,0 +1,30 @@
+[
+    {
+        "id": "69ba749d55e09",
+        "date": "2026-03-18 10:47:09",
+        "amount": 5000,
+        "method": "bank",
+        "processed_by": 1
+    },
+    {
+        "id": "69ba7547c2a0e",
+        "date": "2026-03-18 10:49:59",
+        "amount": 30000,
+        "method": "mobile_money",
+        "processed_by": 1
+    },
+    {
+        "id": "69ba78548fa46",
+        "date": "2026-03-18 11:03:00",
+        "amount": 4000,
+        "method": "bank",
+        "processed_by": 1
+    },
+    {
+        "id": "69ba7873a183d",
+        "date": "2026-03-18 11:03:31",
+        "amount": 1000,
+        "method": "mobile_money",
+        "processed_by": 1
+    }
+]
