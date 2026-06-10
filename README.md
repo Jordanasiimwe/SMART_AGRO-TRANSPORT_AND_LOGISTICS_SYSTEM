@@ -56,8 +56,8 @@ Smart AgroLink System is a comprehensive web-based platform designed to bridge t
 2.  Create a file named `.env` (or rename `.env.example` if available).
 3.  Add your database credentials:
     ```env
-    DB_HOST=localhost
-    DB_NAME=agriconnect_db
+    DB_HOST= 
+    DB_NAME= 
     DB_USER=root
     DB_PASS=
     ```
