@@ -1,6 +1,11 @@
 # Smart AgroLink System
-
 **Connecting Farmers to Markets**
+
+> ### Scope Optimization Notice
+> This project was originally initiated under the title **Smart Agro Transport and Logistics System**. Following academic presentation feedback, the project scope was intentionally streamlined to eliminate the transport module but we maintained the project name since it was already submitted and approved. 
+
+> The platform's finalized scope focuses exclusively on engineering a robust digital marketplace that bridges the communication and supply gap between rural farmers and urban marketplace vendors, with a localized implementation baseline targeting **Nakawa Market**.
+
 
 Smart AgroLink System is a comprehensive web-based platform designed to bridge the gap between farmers and vendors. It allows farmers to list their produce and manage orders, while vendors can browse fresh produce, place orders, and track deliveries. The system includes robust administrative tools for user management, financial tracking, and system maintenance.
 
