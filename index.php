@@ -940,3 +940,4 @@ switch ($requestUri) {
         break;
 }
 ?>
+// Github connection test
