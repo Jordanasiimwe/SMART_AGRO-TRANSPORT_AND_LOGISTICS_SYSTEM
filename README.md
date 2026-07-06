@@ -1,5 +1,5 @@
 Project Title
-SMART AGRO-TRANSPORT and LOGISTICS SYSTEM (SATLS)
+SMART AGRO-TRANSPORT AND LOGISTICS SYSTEM (SATLS)
 
 Existing Problem 
 Smallholder farmers supplying agricultural produce to Nakawa Market face significant challenges due to the absence of a centralized digital platform for coordinating trade with market vendors. Most transactions rely on manual communication methods, personal contacts, and middlemen, resulting in limited access to real-time market information, price manipulation, uncertainty about demand, and frequent post-harvest losses caused by unsold produce. At the same time, vendors struggle to obtain reliable information about available produce, making it difficult to plan purchases and maintain a consistent supply of agricultural products. These inefficiencies reduce farmers' incomes, disrupt vendors' operations, and negatively affect the overall efficiency of the agricultural supply chain.
