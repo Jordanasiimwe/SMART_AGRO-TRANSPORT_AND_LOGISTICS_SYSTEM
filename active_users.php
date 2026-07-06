@@ -15,7 +15,7 @@ $users = $userModel->getAllActiveUsers();
 <div class="container">
     <div class="page-header">
         <h1>User Activity Log</h1>
-        <a href="/dashboard" class="button-back">&larr; Back to Dashboard</a>
+        <a href="/uict/dashboard" class="button-back">&larr; Back to Dashboard</a>
     </div>
 
     <?php if (empty($users)): ?>
