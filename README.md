@@ -86,10 +86,10 @@ This project was designed and developed by:
 
 *   **Admin**:
     *   Username: `admin`
-    *   Password: *(As configured in your database)*
+    *   Password: admin123
 *   **Farmer**:
-    *   Username: `farmer`
-    *   Password: *(As configured in your database)*
+    *   Username: King_David
+    *   Password: 0761382827
 *   **Vendor**:
     *   Username: `vendor`
     *   Password: *(As configured in your database)*
