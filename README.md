@@ -71,7 +71,7 @@ Smart AgroLink System is a comprehensive web-based platform designed to bridge t
 ### 4. Environment Setup
 1.  Navigate to the project root `uict/`.
 2.  Create a file named `.env` (or rename `.env.example` if available).
-3.  Add your database credentials:
+3.   Database credentials:
     ```env
     DB_HOST=sql205.infinityfree.com
     DB_NAME=if0_42138888_agriconnect
@@ -92,7 +92,7 @@ Smart AgroLink System is a comprehensive web-based platform designed to bridge t
 
 This project was designed and developed by:
 
-1.  **Icarit David**
+1.  **Icarit David Julius**
 2.  **Asiimwe Jordan**
 3.  **Nahigo Racheal**
 4.  **Nagginda Shirat**
