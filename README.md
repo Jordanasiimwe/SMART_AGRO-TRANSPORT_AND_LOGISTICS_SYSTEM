@@ -80,8 +80,12 @@ Smart AgroLink System is a comprehensive web-based platform designed to bridge t
     ```
 
 ### 5. Running the Application
-1.  Start Apache and MySQL in XAMPP.
-2.  Open your browser and navigate to:
+
+1.  Open your brower.
+2.  open the link"https://smartagro-linksystem.com".
+3.        OR
+4.  Start Apache and MySQL in XAMPP.
+5.  Open your browser and navigate to:
     `http://localhost/uict/`
 
 ## 👥 The Team (Class of 2026)
