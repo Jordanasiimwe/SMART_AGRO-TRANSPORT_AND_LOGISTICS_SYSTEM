@@ -107,8 +107,8 @@ This project was designed and developed by:
     *   Username: King_David
     *   Password: 0761382827
 *   **Vendor**:
-    *   Username: `vendor`
-    *   Password: *(As configured in your database)*
+    *   Username: `Asiimwe Jordan`
+    *   Password: 0761746776
 
 ---
 &copy; 2026 Smart AgroLink System. All Rights Reserved.
